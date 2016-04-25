@@ -47,10 +47,10 @@
         android:inputType="numberDecimal"
         android:ems="10"
         android:id="@+id/edtxtWage"
+        android:hint="Wage"
         android:layout_below="@+id/edtxtEmployeeNum"
         android:layout_alignLeft="@+id/edtxtEmployeeNum"
-        android:layout_alignStart="@+id/edtxtEmployeeNum"
-        android:hint="Wage" />
+        android:layout_alignStart="@+id/edtxtEmployeeNum" />
 
     <Button
         android:layout_width="wrap_content"
